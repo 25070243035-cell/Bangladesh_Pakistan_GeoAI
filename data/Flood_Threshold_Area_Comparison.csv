@@ -1,0 +1,6 @@
+Hazard,Threshold,Threshold_Reason,Actual_km2,Predicted_km2,Actual_pixels,Predicted_pixels,Difference_pixels,Actual_extent_%,Predicted_extent_%,Over_Under_prediction_%,TP,FP,FN,Precision,Recall,F1_score
+Flood,0.15,Sensitivity threshold,7541,15230,7541,15230,7689,46.043,92.991,101.963,7522,7708,19,0.4939,0.9975,0.6607
+Flood,0.3,Sensitivity threshold,7541,14346,7541,14346,6805,46.043,87.593,90.24,7469,6877,72,0.5206,0.9905,0.6825
+Flood,0.5,Sensitivity threshold,7541,13065,7541,13065,5524,46.043,79.772,73.253,7199,5866,342,0.551,0.9546,0.6987
+Flood,0.55,Previous selected threshold,7541,12631,7541,12631,5090,46.043,77.122,67.498,7053,5578,488,0.5584,0.9353,0.6993
+Flood,0.86,Area-matched threshold,7541,7571,7541,7571,30,46.043,46.227,0.398,4599,2972,2942,0.6074,0.6099,0.6087

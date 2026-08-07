@@ -1,0 +1,6 @@
+Hazard,Threshold,Threshold_Reason,Actual_km2,Predicted_km2,Actual_pixels,Predicted_pixels,Difference_pixels,Actual_extent_%,Predicted_extent_%,Over_Under_prediction_%,TP,FP,FN,Precision,Recall,F1_score
+Compound,0.13,Sensitivity threshold,3387,3545,3387,3545,158,20.68,21.645,4.665,1595,1950,1792,0.4499,0.4709,0.4602
+Compound,0.15,Sensitivity threshold,3387,2955,3387,2955,-432,20.68,18.042,-12.755,1335,1620,2052,0.4518,0.3942,0.421
+Compound,0.3,Sensitivity threshold,3387,851,3387,851,-2536,20.68,5.196,-74.875,303,548,3084,0.3561,0.0895,0.143
+Compound,0.5,Sensitivity threshold,3387,171,3387,171,-3216,20.68,1.044,-94.951,23,148,3364,0.1345,0.0068,0.0129
+Compound,0.55,Previous selected threshold,3387,116,3387,116,-3271,20.68,0.708,-96.575,14,102,3373,0.1207,0.0041,0.008

@@ -1,0 +1,6 @@
+Hazard,Threshold,Threshold_Reason,Actual_km2,Predicted_km2,Actual_pixels,Predicted_pixels,Difference_pixels,Actual_extent_%,Predicted_extent_%,Over_Under_prediction_%,TP,FP,FN,Precision,Recall,F1_score
+Heat,0.3,Sensitivity threshold,788,1249,788,1249,461,39.519,62.638,58.503,778,471,10,0.6229,0.9873,0.7639
+Heat,0.5,Standard threshold,788,1096,788,1096,308,39.519,54.965,39.086,760,336,28,0.6934,0.9645,0.8068
+Heat,0.55,Project-selected threshold,788,1058,788,1058,270,39.519,53.059,34.264,753,305,35,0.7117,0.9556,0.8158
+Heat,0.81,Best F1-score threshold,788,863,788,863,75,39.519,43.28,9.518,712,151,76,0.825,0.9036,0.8625
+Heat,0.86,Best area-matched threshold,788,784,788,784,-4,39.519,39.318,-0.508,672,112,116,0.8571,0.8528,0.855

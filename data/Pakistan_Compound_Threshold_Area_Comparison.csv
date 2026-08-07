@@ -1,0 +1,6 @@
+Hazard,Threshold,Threshold_Reason,Actual_km2,Predicted_km2,Actual_pixels,Predicted_pixels,Difference_pixels,Actual_extent_%,Predicted_extent_%,Over_Under_prediction_%,TP,FP,FN,Precision,Recall,F1_score
+Compound,0.3,Sensitivity threshold,123,306,123,306,183,6.26,15.573,148.78,123,183,0,0.402,1.0,0.5734
+Compound,0.5,Standard threshold,123,197,123,197,74,6.26,10.025,60.163,120,77,3,0.6091,0.9756,0.75
+Compound,0.55,Project-selected threshold,123,178,123,178,55,6.26,9.059,44.715,118,60,5,0.6629,0.9593,0.7841
+Compound,0.68,Best F1-score threshold,123,136,123,136,13,6.26,6.921,10.569,110,26,13,0.8088,0.8943,0.8494
+Compound,0.72,Best area-matched threshold,123,124,123,124,1,6.26,6.31,0.813,104,20,19,0.8387,0.8455,0.8421
